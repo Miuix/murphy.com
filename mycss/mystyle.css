@@ -1,0 +1,28 @@
+body 
+{
+	background-image: url("../image/image8.jpg"); 
+	text-align: center; 
+	padding: 20px;
+}
+p.one
+{
+	margin:5px 100px 5px 5px;
+}
+fieldset
+{
+	margin:100px 380px 0px 380px;
+}
+[type=reset]
+{
+	width:75px;
+	background-image: url(../image/image8.jpg);
+	font-family: Verdana, Arial;
+	margin:0px 10px 5px 5px;
+}
+[type=submit]
+{
+	width:75px;
+	background-image: url(../image/image8.jpg);
+	font-family: Verdana, Arial;
+	margin:0px 10px 5px 5px;
+}
