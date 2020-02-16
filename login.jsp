@@ -6,7 +6,7 @@
 <body>
 <form action="result.jsp" method=post>
 <fieldset>
-<legend>基于Web的学生信息管理系统Version1.4:</legend>
+<legend>基于Web的学生信息管理系统Version1.5:</legend>
 <p class=one>Account:<br></p>
 <input type="text" name="act" style="background:transparent" checked>
 <br>
